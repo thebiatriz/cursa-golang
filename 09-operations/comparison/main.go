@@ -16,7 +16,7 @@ func main() {
 	fmt.Println("b <= a:", b <= a)
 
 	fmt.Println("3 == 4:", 3 == 4)
-	fmt.Println("3 == 3:", 3 == 3)
+	//fmt.Println("3 == 3:", 3 == 3)
 
 	//não aceita comparações de tipos diferentes, precisa converter
 	fmt.Println("b == c:", b == int(c))
