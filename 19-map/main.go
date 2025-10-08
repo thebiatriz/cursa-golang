@@ -11,4 +11,7 @@ func main() {
 
 	fmt.Println("\n-------Executando a função de map com struct-------")
 	MapStruct()
+
+	fmt.Println("\n-------Executando a função de map literal com struct-------")
+	LiteralMapStruct()
 }
