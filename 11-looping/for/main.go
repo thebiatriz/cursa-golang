@@ -12,4 +12,7 @@ func main() {
 	} 
 
 	fmt.Println("Resultado da soma de 1 a 10:", add)
+
+	fmt.Println("\n--------Chamando função de for com range--------")
+	Range()
 }
